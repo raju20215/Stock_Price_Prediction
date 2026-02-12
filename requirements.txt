@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+yfinance
+pandas-ta
+transformers
+plotly
+joblib
+scikit-learn
+pandas
+numpy
+h5py
+requests
