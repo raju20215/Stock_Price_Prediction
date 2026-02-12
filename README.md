@@ -587,6 +587,6 @@ If this project helped you, please give it a ⭐ on GitHub!
 
 **Built with ❤️ for the Indian Stock Market**
 
-Made by [Your Name] | 2026
+Made by [U P RAJU] | 2026
 
 </div>
